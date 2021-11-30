@@ -1,5 +1,6 @@
 ### Hi there 👋
 
 I'm Kaja and I'm  an 18 year old AGH student. I'm not sure what to write here, so maybe something interesting will appear here over time 
-https://narzekajka.github.io/
+https://narzekajka.github.io/ 
+
 https://github.com/NarzeKajka/icassp19 <- fork
